@@ -1,0 +1,28 @@
+body{
+    background-image: url('../images/rojito.png');
+}
+main{
+    margin: 50px;
+}
+p{
+    font-size: larger;
+    background-color: khaki;
+}
+h1{
+    background-color: rgb(216, 218, 217);
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+h4{
+    text-align: center;
+    background-color: olive;
+    color: rgb(245, 245, 245);
+    font-family: 'Segoe UI';
+    border: rgb(130, 170, 38) 2px groove;
+}
+form{
+    margin:70px;
+    border-style: groove;
+    text-align: center;
+    background-color: rgb(250, 231, 231);
+}
